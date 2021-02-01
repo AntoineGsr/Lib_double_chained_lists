@@ -14,5 +14,6 @@ Now, you can call and use the functions of my lib. To create the list you have t
 3rd step -> code your program. Don't forget to come back to the first node when you move your "node" inside the list ;
 4rd step -> display the list for debug ;
 5rd step -> free "global" and "node" with the destroy function.
+You can destroy a node with del_to_list(...). You must have to give the position of the node you want to delete.
 
 Good luck.
