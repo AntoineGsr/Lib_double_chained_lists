@@ -1,6 +1,6 @@
 # LibDoubleChainedLists
 This is my own lib of double chained lists in C.
-With this lib you can create your doubled chain lists.
+With this lib you can create your double chained lists.
 You just have to clone my Repository and work in the root of this clone.
 Add your .c in the Makefile and #include the .h inside your .c.
 
