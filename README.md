@@ -17,4 +17,5 @@ Now, you can call and use the functions of my lib. To create the list you have t
 7th step -> free "global" and "node" with the destroy function.
 You can destroy a node with del_to_list(...). You must have to give the position of the node you want to delete.
 
+PS: I give you an exemple of code, you just have to execute "./my_lib 1 2 3 4 5 6 etc."
 Good luck.
