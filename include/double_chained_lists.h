@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 /*------------------SECONDARY_LIST------------------*/
 typedef struct l_list l_list;
