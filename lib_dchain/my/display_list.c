@@ -7,11 +7,11 @@
 
 #include "double_chained_lists.h"
 
-char *display(l_list *node)
+void display(l_list *node)
 {
     if (node == NULL) {
         printf("NULL\n");
-        return NULL;
+        return;
     }
     while (node != NULL) {
         printf("%d", node->nb);

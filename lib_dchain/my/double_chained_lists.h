@@ -41,6 +41,6 @@ void del_to_list(list **gbl, l_list **node, int pos);
 void destroy_first_node(list **gbl, l_list **node);
 void destroy_list(list **gbl, l_list **node);
 /*-------------------DISPLAY_LIST-------------------*/
-char *display(l_list *node);
+void display(l_list *node);
 
 #endif /* DCHAIN_H_ */
