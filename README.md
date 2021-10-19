@@ -1,4 +1,5 @@
 # LibDoubleChainedLists
+(A new Version will be out with a temp node, free at the end of the function) 
 This is my own library of double chained lists in C.
 With this lib you can create your double chained lists.
 You just have to clone my Repository and work in the root of this clone.
